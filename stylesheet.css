@@ -1,5 +1,43 @@
 .jumbotron {
   text-align: center;
-  margin: 50px;
-  padding: 30px;
+  line-height: inherit;
+  text-shadow: 2px 2px Black;
+  color: Orange;
+  margin: 10px 5px;
+  padding: 20px;
+  background: url(../imgaes/hawker_hurricane_ha_c_mk12a_by_Sceptre63.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 950px;
+}
+
+.mk1body {
+  background-color: Ivory;
+  margin: 10px 5px;
+  padding: 10px;
+  text-align: justify;
+}
+
+.mk1picroll {
+  justify-content: center;
+  margin: 20px 5px;
+  padding: 20px;
+}
+
+.mk1img {
+  position: relative;
+  width: 300px;
+  height: 150px;
+  overflow: hidden;
+
+}
+
+body {
+  background-color: LightGrey;
+}
+
+.footnotes {
+  background-color: white;
+  padding-left: 3px;
+  text-align: left;
 }
