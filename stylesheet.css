@@ -1,4 +1,9 @@
+* {
+  font-family: Roboto:
+}
+
 .jumbotron {
+  border: solid;
   text-align: center;
   line-height: inherit;
   text-shadow: 2px 2px Black;
@@ -12,6 +17,8 @@
 }
 
 .mk1body {
+  border: solid;
+  border-color: orange;
   background-color: Ivory;
   margin: 10px 5px;
   padding: 10px;
@@ -21,7 +28,7 @@
 .mk1picroll {
   justify-content: center;
   margin: 20px 5px;
-  padding: 20px;
+  padding: 10px;
 }
 
 .mk1img {
@@ -32,8 +39,17 @@
 
 }
 
+.hotlink {
+  margin: 10px 5px;
+  padding: 1px;
+  border: solid;
+  border-color: orange;
+  background-color: ivory;
+  text-align: center;
+}
+
 body {
-  background-color: LightGrey;
+  background-color: DarkOliveGreen;
 }
 
 .footnotes {
